@@ -25,7 +25,7 @@ To get started with FineFin, follow these simple steps:
 ```sh
 # Clone the repository
 git clone https://github.com/suphanatchanlek30/Project_Fine_Fin.git
-cd fine-fin
+cd Project_Fine_Fin
 
 # Install dependencies
 npm install
