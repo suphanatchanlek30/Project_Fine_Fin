@@ -16,8 +16,8 @@ Designed using Figma 👉 [FineFin Figma Design](https://www.figma.com/community
 
 📌 Installation & Setup
 # Clone the repository
-git clone https://github.com/your-username/finefin.git
-cd finefin
+git clone https://github.com/suphanatchanlek30/Project_Fine_Fin.git
+cd fine-fin
 
 # Install dependencies
 npm install
